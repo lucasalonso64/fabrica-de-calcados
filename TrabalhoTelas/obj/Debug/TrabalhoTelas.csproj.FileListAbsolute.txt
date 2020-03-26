@@ -1,0 +1,161 @@
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes.mdf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho\Telas C#\trabalho\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes.mdf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Clientes.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes.mdf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Trabalho para entregar hoje\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes.mdf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\CadClientes.mdf
+G:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\CadClientes_log.ldf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\CadClientes.mdf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\CadClientes_log.ldf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes.mdf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_Clientes.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.frmCad.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+I:\Arquivos da faculdade\faculdade\3° Semestre\Projeto apresentação\TrabalhoTelas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_Clientes.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.frmCad.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\CadClientes.mdf
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\CadClientes_log.ldf
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\Clientes.mdf
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+C:\Users\csk\Desktop\TrabalhoTelas PDesk\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\CadClientes.mdf
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\CadClientes_log.ldf
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\Clientes.mdf
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\Clientes_log.ldf
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\bin\Debug\TrabalhoTelas.pdb
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_Clientes.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.frmCad.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Menu.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Agendamento.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Animais.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Cadastro_de_Funcionários.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Clientes.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Controle_de_Serviços.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Histórico_dos_Serviços.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Conclusao_Serviço.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.formularios.Registro_Inicio.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.Properties.Resources.resources
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csproj.GenerateResource.Cache
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb
+C:\Users\csk\Desktop\Projetos\Trabalho Telas\TrabalhoTelas\obj\Debug\TrabalhoTelas.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento de sistemas\Trabalho Telas  26062016_1453_com implementações\TrabalhoTelas\bin\Debug\TrabalhoTelas.exe.config
+D:\Desenvolvimento de sistemas\Trabalho Telas  26062016_1453_com implementações\TrabalhoTelas\obj\Debug\TrabalhoTelas.exe
+D:\Desenvolvimento de sistemas\Trabalho Telas  26062016_1453_com implementações\TrabalhoTelas\obj\Debug\TrabalhoTelas.pdb

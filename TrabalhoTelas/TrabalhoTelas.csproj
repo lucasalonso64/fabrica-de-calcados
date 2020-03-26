@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0F8AC39-2A2B-4183-9032-E6436C77D930}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrabalhoTelas</RootNamespace>
+    <AssemblyName>TrabalhoTelas</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bancopetDataSet.cs">
+      <DependentUpon>bancopetDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bancopetDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bancopetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Cadastro Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Cadastro Clientes.Designer.cs">
+      <DependentUpon>Cadastro Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frmCad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frmCad.Designer.cs">
+      <DependentUpon>frmCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Agendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Agendamento.Designer.cs">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Animais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Animais.Designer.cs">
+      <DependentUpon>Cadastro de Animais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Funcionários.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Funcionários.Designer.cs">
+      <DependentUpon>Cadastro de Funcionários.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Seviços.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Cadastro de Seviços.Designer.cs">
+      <DependentUpon>Cadastro de Seviços.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Histórico dos Serviços.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Histórico dos Serviços.Designer.cs">
+      <DependentUpon>Histórico dos Serviços.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Registro Conclusao Serviço.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Registro Conclusao Serviço.Designer.cs">
+      <DependentUpon>Registro Conclusao Serviço.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Registro Inicio Serviço.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Registro Inicio Serviço.Designer.cs">
+      <DependentUpon>Registro Inicio Serviço.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="formularios\Cadastro Clientes.resx">
+      <DependentUpon>Cadastro Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frmCad.resx">
+      <DependentUpon>frmCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Agendamento.resx">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Cadastro de Animais.resx">
+      <DependentUpon>Cadastro de Animais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Cadastro de Funcionários.resx">
+      <DependentUpon>Cadastro de Funcionários.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Cadastro de Seviços.resx">
+      <DependentUpon>Cadastro de Seviços.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Histórico dos Serviços.resx">
+      <DependentUpon>Histórico dos Serviços.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Registro Conclusao Serviço.resx">
+      <DependentUpon>Registro Conclusao Serviço.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Registro Inicio Serviço.resx">
+      <DependentUpon>Registro Inicio Serviço.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="bancopetDataSet.xsc">
+      <DependentUpon>bancopetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bancopetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bancopetDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bancopetDataSet.xss">
+      <DependentUpon>bancopetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CadClientes.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CadClientes_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>CadClientes.mdf</DependentUpon>
+    </Content>
+    <Content Include="Clientes.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Clientes_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Clientes.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
